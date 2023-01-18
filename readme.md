@@ -37,8 +37,8 @@ endpoint: http://localhost:5001/api/getById
 **_Swagger UI_**
 http://localhost:5001/api-docs
 
-**Technology used**
-**Node - for packages and libraries**
-**Express - handling routes**
-**Mongoose - for database connection**
+**Technology used:-**
+**Node - for packages and libraries, **
+**Express - handling routes, **
+**Mongoose - for database connection, **
 **Swagger for API Documentation**
