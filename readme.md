@@ -1,4 +1,5 @@
------------------**\*\***\*\*\*\***\*\***--------------------
+**REST API create with node, express, mongoose**
+
 **_CREATE a .env file_**
 
 **add the required credentials with the reference of example.env**
@@ -10,7 +11,7 @@
 **\_COMMAND TO RUN APP: npm start**
 
 **Filter with Page and limit METHOD GET**
-e.g; http://localhost:5001/api/users?page=1&limit=4  
+e.g; http://localhost:5001/api/users?page=1&limit=4
 
 **search with username || name || hobby METHOD GET**
 eg; http://localhost:5001/api?username=sanjit&name=sanjit&hobby=dancing
@@ -35,3 +36,9 @@ endpoint: http://localhost:5001/api/getById
 
 **_Swagger UI_**
 http://localhost:5001/api-docs
+
+**Technology used**
+**Node - for packages and libraries**
+**Express - handling routes**
+**Mongoose - for database connection**
+**Swagger for API Documentation**
