@@ -1,4 +1,4 @@
-**REST API create with node, express, mongoose**
+**REST API created with node, express, mongoose**
 
 **_CREATE a .env file_**
 
