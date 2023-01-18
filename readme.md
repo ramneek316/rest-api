@@ -2,7 +2,7 @@
 
 **_CREATE a .env file_**
 
-**add the required credentials with the reference of example.env**
+**Add the required credentials with the reference of example.env**
 
 **_Install the Appp_**
 
@@ -38,7 +38,7 @@ endpoint: http://localhost:5001/api/getById
 http://localhost:5001/api-docs
 
 **Technology used:-**
-**Node - for packages and libraries, **
-**Express - handling routes, **
-**Mongoose - for database connection, **
+**Node - for packages and libraries,**
+**Express - handling routes,**
+**Mongoose - for database connection,**
 **Swagger for API Documentation**
